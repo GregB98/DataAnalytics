@@ -1,0 +1,9 @@
+<car>
+	<id>1</id>
+	<brand>Oldsmobile</brand>
+	<model>Aurora</model>
+	<year>2003</year>
+	<owned_by>Herzog, Rodriguez and Howe</owned_by>
+	<acquired>21/10/2016</acquired>
+	<price>32571</price>
+</car>
